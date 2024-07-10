@@ -1,0 +1,45 @@
+.AC{
+    background-color: gray;
+    color: black;
+    border-radius: 50%;
+    transform: scale(1.2);
+    margin-top: auto;
+}
+.back{
+    background-color: gray;
+    border-radius: 50%;
+    transform: scale(1.2);
+    margin-top: auto;
+}
+.per{
+    background-color: gray;
+    border-radius: 50%;
+    transform: scale(1.2);
+    margin-top: auto;
+}
+.sp{
+    background-color: orange;
+    border-radius: 50%;
+    transform: scale(1.2);
+    margin-top: 10%;
+}
+.num{
+    background-color: rgb(31, 29, 29);
+    color: white;
+    border-radius: 50%;
+    transform: scale(1.2);
+    margin-top: 10%;
+}
+.main{
+    background-color: rgb(53, 50, 50);
+    margin: auto;
+    width: auto;
+    height: 200px;
+}
+.text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    background-color: yellow;
+    color: black;
+
+}
